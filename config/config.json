@@ -1,0 +1,13 @@
+{
+    "development": {
+        "username": "root",
+        "password": "78781227",
+        "database": "project-thuctap",
+        "host": "localhost",
+        "port": "3306",
+        "dialect": "mysql",
+        "define": {
+            "freezeTableName": true
+        }
+    }
+}
